@@ -1,0 +1,11 @@
+{
+  "apps": [
+    "Ghostty",
+    "Google Chrome",
+    "com.tinyspeck.slackmacgap",
+    "Obsidian",
+    "Figma",
+    "~/Applications/Some Other.app"
+  ],
+  "commitDelay": 0.7
+}
